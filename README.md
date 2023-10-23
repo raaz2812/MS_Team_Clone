@@ -1,6 +1,5 @@
 # Videoall
 Welcome to Videoall, a video calling app. </br>
-Link to the app hosted on Heroku : https://videoall.herokuapp.com/  </br>
 <strong>The Major Technologies used include:</strong> </br>
 <ul>
 <li>NodeJS</li>
